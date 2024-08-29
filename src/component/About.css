@@ -1,0 +1,27 @@
+.about{
+    background-color: #111;
+    width: 100%;
+    height: 100vh;
+}
+.img1{
+    width:500px;
+    max-width: 100%;
+}
+.about h2{
+    color:#fff;
+}
+.Ab{
+    color: purple;
+}
+.hr{
+   background-color: #fff;
+    width: 30%;
+}
+@media (max-width:991px) {
+    .about{
+        height:710px
+    }
+}
+.span{
+    display: none;
+}

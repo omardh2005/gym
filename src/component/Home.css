@@ -1,0 +1,25 @@
+.home{
+    width: 100%;
+    height:100vh;
+    background-image:linear-gradient(to right,rgba(5,10,35,0.6),rgba(5,10,35,0.8)), url("../photos/pexels-willpicturethis-1954524.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    transform: translateY(200px);
+    color:#fff;
+}
+.text-purple{
+    color:purple;
+}
+.container h1{
+    font-size: 50px;
+    margin-top: 0;
+}
+.trans{
+    transform: translateY(20px);
+}
+.transl{
+    transform: translateY(40px);
+}
